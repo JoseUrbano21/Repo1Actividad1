@@ -1,4 +1,7 @@
 INDEX VERSION 1.134+C:\Users\Alvarovr\Desktop\jose\Repo1Actividad1\.metadata\.plugins\org.eclipse.jdt.core
 1865797976.index
+<<<<<<< HEAD
 1548738258.index
 2475121316.index
+=======
+>>>>>>> develop
